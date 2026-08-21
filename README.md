@@ -117,6 +117,8 @@ Two separate threshold values are used to prevent frequent switching of the stre
 ---
 
 ## Circuit Connections
+<img width="527" height="266" alt="image" src="https://github.com/user-attachments/assets/17911000-631c-44ee-9af8-c79ed56dfea2" />
+
 
 ### Potentiometer – LDR Simulation
 
